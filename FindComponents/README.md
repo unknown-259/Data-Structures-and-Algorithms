@@ -1,3 +1,5 @@
+Build a Graph module in C that implements the Depth First Search (DFS) algorithm
+
 # List of files
 
 List.h\
