@@ -1,3 +1,5 @@
+Re-create the Dictionary ADT based on a Red-Black Tree
+
 # List of files
 
 Dictionary.h\
