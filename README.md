@@ -7,3 +7,4 @@
 5. List (C++): Integer List ADT in C++ and use it to indirectly alphabetize the lines in a file
 6. BigInteger: An ADT in C++ that is capable of performing arithmetic operations on arbitrarily large signed integers
 7. Dictionary: Uses a Dictionary ADT based on a Binary Search Tree
+8. Re-create the Dictionary ADT based on a Red-Black Tree
