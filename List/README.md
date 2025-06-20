@@ -1,3 +1,5 @@
+Our goal is to build an Integer List ADT in C and use it to indirectly alphabetize the lines in a file.
+
 List.h: ADT header file
 
 List.c: Implementation of integer list ADT
