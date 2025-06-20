@@ -8,6 +8,6 @@ ListTest.c: Tests the integer list ADT
 
 Lex.c: Insertion sort of the elements
 
-Makefile: Buiilds the program
+Makefile: Builds the program
 
 README.md: List of files
