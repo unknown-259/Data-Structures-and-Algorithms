@@ -1,3 +1,5 @@
+An ADT in C++ that is capable of performing arithmetic operations on arbitrarily large signed integers
+
 # List of files
 
 Arithmetic.cpp\
